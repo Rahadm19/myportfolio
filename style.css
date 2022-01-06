@@ -136,4 +136,41 @@ p{
     padding-left: 10px;
 }
 
+/*contact form*/
+#contact-form img{
+    width: 99%;
+    height: 450px;
+    position: absolute;
+    padding-top: 20px;
+    opacity: .5;
+    margin: 0;
+}
+.form{
+    position: relative;
+    margin-top: 50px;
+    transition: all ease-in-out;
+    margin-left: 200px;
+    margin-top: 100px;
+    width: 45%;
+}
+.form-control{
+    width: 400px;
+    padding: 10px;
+
+    border: none;
+    font-size: 30px;
+    background: transparent;
+    border-bottom: 2px solid green;
+
+}
+.con-form{
+    display: flex;
+}
+.con-information{
+    margin-top: 150px;
+}
+/*footer*/
+
+
+
 
